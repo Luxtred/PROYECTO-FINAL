@@ -11,26 +11,22 @@ Integrantes:
 
 ## ETAPA 2
 
-Se desea elaborar una tienda donde el usuario decida que apartado que necesite y este decida que requiere en entre las diferentes opciones que brinda, al igual que decidara cuanto requiere.
+Se desea elaborar una tienda donde el usuario decida el apartado que necesite y este decida que requiere en entre las diferentes opciones que brinda, al igual que decidira cuanto requiere.
 
 Entrada: 
-Menu, opciones, ingresar y solicitar datos, operaciones aritmeticas, Disponibilidad del producto.
+Menu: Hardware, software, gamer, salir, RMenu, teclado, mouse, inalambrico, alambrico, juego1, juego2, productos1, producto2. 
 
 Salida:
 ~~~
-+-------------------------------------------------------------------------------+
-| MENU                                                                          |
-|                                                                               |
-|     COMPUTADORAS                                                              |
-|                                                                               | 
-|     ACCESORIOS                                                                |
-|                                                                               |
-|     LICENCIAS                                                                 |
-|                                                                               |
-|                                                                               |
-|      SALIR                                                                    |
-|                                                                               |
-+-------------------------------------------------------------------------------+
+*-------------------------------------------------------------------------------*
+Hola (inserte nombre), Bienvenido a RoboPato.
+
+1) Hardware
+2) Software 
+3) Gamer
+
+4) Salir
+*-------------------------------------------------------------------------------*
 ~~~
 ## ETAPA 3
 
