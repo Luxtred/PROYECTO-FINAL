@@ -14,7 +14,7 @@ Integrantes:
 Se desea elaborar una tienda donde el usuario decida el apartado que necesite y este decida que requiere en entre las diferentes opciones que brinda, al igual que decidira cuanto requiere.
 
 Entrada: 
-Menu: Hardware, software, gamer, salir, RMenu, teclado, mouse, inalambrico, alambrico, juego1, juego2, productos1, producto2. 
+Menu: Hardware, software, gamer, salir, RMenu, teclado, mouse, juego, paqueteria.
 
 Salida:
 ~~~
