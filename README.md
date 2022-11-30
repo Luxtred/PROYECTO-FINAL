@@ -18,7 +18,7 @@ Menu: Hardware, software, gamer, salir, RMenu, teclado, mouse, juego, paqueteria
 
 Salida:
 ~~~
-*-------------------------------------------------------------------------------*
+*-------------------------------------------------------*
 Hola (inserte nombre), Bienvenido a RoboPato.
 
 1) Hardware
@@ -26,7 +26,7 @@ Hola (inserte nombre), Bienvenido a RoboPato.
 3) Gamer
 
 4) Salir
-*-------------------------------------------------------------------------------*
+*-------------------------------------------------------*
 ~~~
 ## ETAPA 3
 
