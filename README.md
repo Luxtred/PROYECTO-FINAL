@@ -29,6 +29,6 @@ Hola (inserte nombre), Bienvenido a RoboPato.
 *-------------------------------------------------------*
 ~~~
 ## ETAPA 3
-
+![](https://github.com/Luxtred/PROYECTO-FINAL/blob/main/RP.png)
 
 ## ETAPA 4
